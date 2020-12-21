@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Vincent&#39;s Blog</title>
+    <url>/2020/12/21/di-yi-pian-bo-ke/</url>
+    <content><![CDATA[<blockquote>
+<h2 id="欢迎大家来到我的博客。"><a href="#欢迎大家来到我的博客。" class="headerlink" title="欢迎大家来到我的博客。"></a>欢迎大家来到我的博客。</h2></blockquote>
+<a id="more"></a>
+
+<p>想自己做一个博客很久了，大概从一年前刚考上研开始吧，当时因为技术的原因（<del>我是不会承认是因为自己懒的缘故</del>），一直没有开始，上周依靠在办公室摸鱼的零星时间，使用 hexo+nexT 搭建了该博客。</p>
+<p>正经的讲，我的本科不是学计算机的，开始学习计算机的时候，利用搜索引擎看了许多技术大拿们的博客，对我产生了极大的帮助，从那时起，我也萌发了一个想要利用自己的博客来帮助更多人的想法（虽然我现在也还算一个小白，并没有许多值得分享的东西），那就以这个博客作为一个起点吧，记录自己一步步成长的过程。</p>
+<p>——————————-2020.12.21 更新于摸鱼的周一————————–</p>
+]]></content>
+      <categories>
+        <category>diary</category>
+      </categories>
+      <tags>
+        <tag>daily</tag>
+        <tag>diary</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/12/14/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,5 +36,11 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>123</tag>
+      </tags>
   </entry>
 </search>
